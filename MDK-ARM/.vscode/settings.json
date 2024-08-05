@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "ws2812.h": "c",
+        "rope_task.h": "c",
+        "fdcan.h": "c",
+        "can_bsp.h": "c",
+        "main.h": "c"
+    }
+}
